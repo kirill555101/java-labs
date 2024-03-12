@@ -1,0 +1,3 @@
+Some File with text
+TEXT can be like That
+or LiKE thaT
